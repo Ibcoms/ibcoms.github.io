@@ -1,0 +1,14 @@
+- icon: fas fa-graduation-cap
+  content: "MSc in Bioinformatics (UBC) &bull; Bachelor of Computer Science (University of Waterloo)"
+- icon: fas fa-users
+  content: "Taught the 'Intermediate Shiny' 2-day workshop at RStudio Conference"
+- icon: fas fa-podcast
+  content: "Interviewed for [Episode 16](https://www.r-podcast.org/posts/the-r-podcast-episode-16-interview-with-dean-attali.html) and [Episode 19](https://r-podcast.org/episode/019-talking-shiny-at-rstudio-conf-with-barbara-borges-and-dean-attali/) of The R-Podcast and [Shiny Dev Series](https://www.youtube.com/watch?v=yRGJDtOUP3Y)"
+- icon: fas fa-pencil-alt
+  content: "Wrote [an article](https://shiny.rstudio.com/articles/persistent-data-storage.html) for RStudio that is hosted on Shiny's official webpage"
+- icon: fas fa-star
+  content: "Several apps featured on RStudio's official [Shiny User Showcase](https://www.rstudio.com/products/shiny/shiny-user-showcase/)"
+- icon: fab fa-github
+  content: "Often in the top 5 [Trending R Developers](https://github.com/trending/developers/r?since=monthly) on GitHub"
+- icon: fas fa-book 
+  content: "Official book reviewer of the book [\"Learning Shiny\"](https://www.packtpub.com/application-development/learning-shiny) (not an endorsement)"

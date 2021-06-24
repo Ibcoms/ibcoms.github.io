@@ -1,0 +1,20 @@
+- title: Ansible
+  description: "Ansible est une plate-forme logicielle libre pour la configuration et la gestion des ordinateurs."
+  img: Ansible_logo.png
+  url: https://www.ansible.com
+- title: Jenkins
+  description: "Jenkins est un outil open source d'intégration continue"
+  img: jenkins.png
+  url: https://jenkins.io
+- title: Docker
+  description: "Docker est un logiciel libre Open Source qui permet d'automatiser le déploiement d'applications."
+  img: docker_logo.png
+  url: https://docker.com
+- title: Terraform
+  description: "Terraform est un environnement logiciel d'« infrastructure as code » publié en open-source par la société HashiCorp."
+  img: terraform.png
+  url: https://www.terraform.io
+- title: Kubernetes
+  description: "Kubernetes (K8s) est un système open-source permettant d'automatiser le déploiement, la mise à l'échelle et la gestion des applications conteneurisées."
+  img: kubernetes.png
+  url: https://kubernetes.io
