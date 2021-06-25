@@ -109,8 +109,8 @@ keywords: "DevOps,System,Jenkins,docker,kubernetes"
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 #navbar-col: "#05172D"
-navbar-col: "#161616"
-navbar-text-col: "#FFFFFF"
+navbar-col: "#FFFFFF"
+navbar-text-col: "#161616"
 navbar-border-col: "#161616"
 page-col: "#FFFFFF"
 text-col: "#404040"
