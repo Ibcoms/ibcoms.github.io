@@ -60,7 +60,7 @@ social-network-links:
   #steam: deanat78
   #twitch: yourname
   #yelp: yourname
-  telegram: yourname
+  telegram: dnodal0
   #calendly: yourname
   #mastodon: instance.url/@username
   #ORCID: your ORCID ID
@@ -75,7 +75,7 @@ rss-description: This website is a virtual proof that I'm awesome
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   linkedin: true
   vk: true
   instagram: true
