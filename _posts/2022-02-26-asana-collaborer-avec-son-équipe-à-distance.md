@@ -8,4 +8,8 @@ Comment collaborer efficacement avec son équipe lorsqu'il est impossible de ré
 
 Vous et votre entreprise apprivoisez encore le travail à distance ? Mais peut-être savez-vous déjà comment travailler efficacement à la maison en collaboration avec votre équipe et comment bien communiquer ? Dans les deux cas, vous verrez qu'il suffit d’apporter quelques petits ajustements à vos processus pour faire toute la différence.
 
-!(/assets/images/badge_asana-together.png)
+
+
+
+
+![test](/assets/img/posts/badge_asana-together.png)
