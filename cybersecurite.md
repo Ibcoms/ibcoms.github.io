@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Cybersécurité
-#subtitle: Mettre en œuvre votre système de cybersécurité pour garantir conformité et sécurité de votre SI
-subtitle: Que faire pour s’assurer d’être protégé ?
-#gh-repo: dnodal0/installcentos
+subtitle: Sécurisation de vos Systèmes d’Information et amélioration de votre
+performance digitale
 #gh-badge: [star, fork, follow]
 cover-img: "/assets/img/cyber.jpg"
 #share-img: "/assets/img/Visuel-1-scaled.jpg"
