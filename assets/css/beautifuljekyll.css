@@ -191,7 +191,7 @@ img {
 .navbar-custom .navbar-brand,
 .navbar-custom .navbar-nav .nav-link {
   font-weight: 800;
-  color: {{ site.navbar-text-col | default: "#fff" }};
+  color: {{ site.navbar-text-col | default: "#2e3535" }};
 }
 
 .navbar-toggler {
