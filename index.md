@@ -17,7 +17,8 @@ ext-js:
 
 ## Consulting {#subtitle}
 
-#### Expert DevOps et Cloud [David AKIF](https://www.ibcoms.com/) {#sub-subtitle}
+<!-- #### Expert DevOps et Cloud [David AKIF](https://www.ibcoms.com/) {#sub-subtitle} -->
+#### Des experts au service des entreprises et des professionnels {#sub-subtitle}
 </div>
 
 <a href="/contact" class="actionbtn">
