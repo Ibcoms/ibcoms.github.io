@@ -1,6 +1,6 @@
 ---
 layout: base
-title: "Nos clients"
+title: "Nos certifications"
 css:
   - /assets/css/index.css
 ext-css:
@@ -15,12 +15,12 @@ cover-img: "/assets/img"
 </div>
 <div id="clients-out" class="page-section cut1">
   <div id="clients">
-    <div class="section-title">Ils nous font confiance</div>
-    <div id="clients-subtitle">Nos clients sont de grand groupes</div>
+    <div class="section-title">Nos certifications et qualifications</div>
+    <div id="clients-subtitle">La reconnaissance de notre savoir-faire</div>
     <div id="client-logos">
-      {% for client in site.data.clients %}
-        <a class="client-img" href="{{ client.url }}" title="{{ client.name }}">
-          <img alt="{{ client.name }}" src="/assets/img/logos/{{ client.img }}" />
+      {% for cert in site.data.certifications %}
+        <a class="cert-img" href="{{ cert.url }}" title="{{ cert.name }}">
+          <img alt="{{ cert.name }}" src="/assets/img/logos/{{ cert.img }}" />
         </a>
       {% endfor %}
     </div>

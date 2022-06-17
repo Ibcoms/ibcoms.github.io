@@ -1,7 +1,7 @@
-- name: EDF
-  img: edf.png
-  url: https://www.edf.fr/
-  height: 3.125rem
+- name: Devops
+  img: devops.png
+  url: https://www.globalknowledge.com/fr-fr/certifications/certification-professionnelle/doi-devops-institute#:~:text=Le%20programme%20de%20certification%20DEVOPS,les%20fondamentaux%20du%20DevOps%20Institute.
+  # height: 3.125rem
 - name: SNCF
   img: its.jpg
   url: https://www.itsgroup.com
