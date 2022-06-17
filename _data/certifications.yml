@@ -2,18 +2,15 @@
   img: devops.png
   url: https://www.globalknowledge.com/fr-fr/certifications/certification-professionnelle/doi-devops-institute#:~:text=Le%20programme%20de%20certification%20DEVOPS,les%20fondamentaux%20du%20DevOps%20Institute.
   # height: 3.125rem
-- name: SNCF
-  img: its.jpg
-  url: https://www.itsgroup.com
-- name: Lieberman Research Worldwide
-  img: atos.png
-  url: https://atos.net
-- name: BNP
-  img: bnp.png
-  url: https://group.bnpparibas
-- name: ACE
-  img: ace.png
-  url: https://www.autocleanexpress.fr
-- name: Auchan
-  img: auchan.png
-  url: https://www.auchan.fr
+- name: Terraform
+  img: terraform.png
+  url: https://www.terraform.io/
+- name: Kubernetes
+  img: kubernetes.png
+  url: https://kubernetes.io/
+- name: Redhat
+  img: redhat.png
+  url: https://www.redhat.com/fr
+- name: Microsoft
+  img: microsoft.png
+  url: https://azure.microsoft.com/
